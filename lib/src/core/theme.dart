@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:persona_flutter/persona_flutter.dart';
+import '../../persona_flutter.dart';
 
 /// Elements used to theme the Persona screens with custom colors, fonts,
 /// text sizes, and corner radius.

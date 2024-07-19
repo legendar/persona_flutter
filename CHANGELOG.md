@@ -1,3 +1,7 @@
+## 3.2.3-patch.0
+
+* bump intl package to 0.19.0
+
 ## 3.2.2
 
 * Updated Android SDK to 2.11.6

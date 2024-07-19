@@ -1,4 +1,4 @@
-import 'package:persona_flutter/persona_flutter.dart';
+import '../../persona_flutter.dart';
 
 import '../platform/persona_platform_interface.dart';
 
